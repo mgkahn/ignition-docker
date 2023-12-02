@@ -1,0 +1,8 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"name": "Building in Perspective Simulator Instructions",
+	"ignition-version": "8.1.1",
+	"version": "1.0.0",
+	"modules": [{"name": "com.inductiveautomation.opcua"}]
+
+}
